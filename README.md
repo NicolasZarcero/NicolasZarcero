@@ -22,6 +22,11 @@ I’m a passionate IT professional with a solid foundation in microcomputing and
 ## 🌱 What I’m Learning
 I’m currently diving deeper into advanced Java frameworks and exploring cloud technologies to expand my skill set further.
 
+## 💻 Projects
+- **Project 1:** Vyralite
+    - **Description:** An intuitive SaaS platform for social media marketing. Manage multiple accounts, schedule posts, automate workflows, and analyze performance effortlessly. Perfect for teams of all sizes to enhance their social media strategy.
+	   - **Technologies Used:** Next.js, ReactJS, MongoDB, TypeScript
+
 ## 📫 How to Reach Me
 - **LinkedIn:** [Nicolás Zarcero](www.linkedin.com/in/zarcerog)
 - **Email:** [nzarcerogarcia@gmail.com](mailto:nzarcerogarcia@gmail.com)
