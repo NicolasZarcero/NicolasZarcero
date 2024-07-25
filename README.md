@@ -10,10 +10,10 @@ I’m a passionate IT professional with a solid foundation in microcomputing and
  - **Other Skills:** App Development, QA Testing, IT Support
 
 ## 💼 Professional Experience
-- **App Developer & Designer** at WorxInn (Contract, 2+ months)
-- **QA Tester** at Volkswagen Group Services (Internship, 11 months)
-- **Help Desk Technician** at Sercom Cloud & Support (Internship, 3 months)
-- **IT Technician** at ITCare S.r.l. (Internship, 2 months)
+- **App Developer & Designer** @ WorxInn (Contract, 2+ months)
+- **QA Tester** @ Volkswagen Group Services (Internship, 11 months)
+- **Help Desk Technician** @ Sercom Cloud & Support (Internship, 3 months)
+- **IT Technician** @ ITCare S.r.l. (Internship, 2 months)
 
 ## 📚 Education
 - **Higher Vocational Training** in Cross Platform App Development - La Salle Gràcia (2022 - 2024)
