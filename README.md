@@ -28,5 +28,5 @@ I’m currently diving deeper into advanced Java frameworks and exploring cloud 
 	- **Technologies Used:** Next.js, ReactJS, MongoDB, TypeScript
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Nicolás Zarcero](www.linkedin.com/in/zarcerog)
+- **LinkedIn:** [Nicolás Zarcero](https://www.linkedin.com/in/zarcerog)
 - **Email:** [nzarcerogarcia@gmail.com](mailto:nzarcerogarcia@gmail.com)
